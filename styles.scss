@@ -11,6 +11,10 @@
 }
 
 .front-layer {
+  bottom: -100px !important;
+}
+
+.fix-layer {
   bottom: -400px !important;
 }
 
@@ -45,7 +49,7 @@
 
 .logo-layer {
   display: block;
-  top: 10vh;  
+  // top: 5vh;  
   // position: relative !important;
   height: 90vh !important;
   margin-left: auto;
@@ -129,6 +133,9 @@
 	}
 	#keyart-7 {
 		background-image: url('images/layer_7.svg');
+  }
+  #keyart-8 {
+		background-image: url('images/layer_8.svg');
 	}
 	#keyart-scrim {
 		opacity: 0;
@@ -158,5 +165,8 @@
 	}
 	#keyart-7 {
 		background-image: url('images/layer_7.svg');
+  }
+  #keyart-8 {
+		background-image: url('images/layer_8.svg');
 	}
 }
