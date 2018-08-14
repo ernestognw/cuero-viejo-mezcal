@@ -273,10 +273,10 @@ jQuery(function($) { "use strict";
              
     function headerScroll() {
        if ($(window).scrollTop() >= $('.header').height()) {
-       $('header').addClass('scrol');
+      //  $('header').addClass('scrol');
        document.getElementById('header').setAttribute('style', 'display: block;')
 		}else{
-       $('header').removeClass('scrol');
+      //  $('header').removeClass('scrol');
        document.getElementById('header').setAttribute('style', 'display: none;')       
 		} 
     }
