@@ -27,8 +27,8 @@ function update() {
   if (ratio <= 1024 / 768){
     backsize = 100*((1024/768)/ratio); 
     backsize = backsize.toString();
+    backsize = parseInt(backsize);    
     backsize = backsize + '%'
-    backsize = parseInt(backsize)
   } else {
     backsize = '100%'
   }
