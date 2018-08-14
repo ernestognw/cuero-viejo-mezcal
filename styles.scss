@@ -2,8 +2,16 @@
   box-sizing: border-box;
 }
 
+#about-image-1 {
+  background-image: url(img/home-7/about_image.png);
+}
+
+.container {
+  padding: 0, 60px;
+}
+
 .front-layer {
-  bottom: -100px !important;
+  bottom: -400px !important;
 }
 
 // .parallax {
@@ -99,28 +107,28 @@
   bottom: 0px;
 }
 	#keyart-0 {
-		background-image: url('/images/layer_0.svg');
+		background-image: url('images/layer_0.svg');
 	}
 	#keyart-1 {
-		background-image: url('/images/layer_1.svg');
+		background-image: url('images/layer_1.svg');
 	}
 	#keyart-2 {
-		background-image: url('/images/layer_logo.svg');
+		background-image: url('images/layer_logo.svg');
 	}
 	#keyart-3 {
-		background-image: url('/images/layer_3.svg');
+		background-image: url('images/layer_3.svg');
 	}
 	#keyart-4 {
-		background-image: url('/images/layer_4.svg');
+		background-image: url('images/layer_4.svg');
 	}
 	#keyart-5 {
-		background-image: url('/images/layer_5.svg');
+		background-image: url('images/layer_5.svg');
 	}
 	#keyart-6 {
-		background-image: url('/images/layer_6.svg');
+		background-image: url('images/layer_6.svg');
 	}
 	#keyart-7 {
-		background-image: url('/images/layer_7.svg');
+		background-image: url('images/layer_7.svg');
 	}
 	#keyart-scrim {
 		opacity: 0;
@@ -128,27 +136,27 @@
 
 @media (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi){ 
    	#keyart-0 {
-		background-image: url('/images/layer_0.svg');
+		background-image: url('images/layer_0.svg');
 	}
 	#keyart-1 {
-		background-image: url('/images/layer_1.svg');
+		background-image: url('images/layer_1.svg');
 	}
 	#keyart-2 {
-		background-image: url('/images/layer_logo.svg');
+		background-image: url('images/layer_logo.svg');
 	}
 	#keyart-3 {
-		background-image: url('/images/layer_3.svg');
+		background-image: url('images/layer_3.svg');
 	}
 	#keyart-4 {
-		background-image: url('/images/layer_4.svg');
+		background-image: url('images/layer_4.svg');
 	}
 	#keyart-5 {
-		background-image: url('/images/layer_5.svg');
+		background-image: url('images/layer_5.svg');
 	}
 	#keyart-6 {
-		background-image: url('/images/layer_6.svg');
+		background-image: url('images/layer_6.svg');
 	}
 	#keyart-7 {
-		background-image: url('/images/layer_7.svg');
+		background-image: url('images/layer_7.svg');
 	}
 }

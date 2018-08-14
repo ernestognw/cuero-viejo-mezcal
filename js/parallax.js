@@ -6,12 +6,16 @@ function castParallax() {
   update();
 
   window.addEventListener("resize", function() {
-    update()
+    update();
   });
 
 	window.addEventListener("scroll", function() {
     update()
   });
+
+  window.addEventListener("scroll", function(){
+    aboutImage();
+  })
 }
 
 
@@ -38,6 +42,17 @@ function update() {
     speed = layer.getAttribute('data-speed');
     var yPos = -(top * speed / 100);
     layer.setAttribute('style', 'transform: translate3d(0px, ' + yPos + 'px, 0px);' + 'background-size:' + backsize + '; !important');
+  }
+}
+
+function aboutImage() {
+  var aboutImage = document.getElementById('about-image-1')
+
+  var yScroll = window.scrollY;
+  yScroll -= 800;
+
+  if(yScroll <= 0){
+    aboutImage.setAttribute('style', 'left:' + yScroll + 'px')
   }
 }
 
