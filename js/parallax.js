@@ -6,9 +6,9 @@
 //   update();
 updateIllustrationsWidth();
 
-  window.addEventListener("resize", function() {
-    updateIllustrationsWidth();
-  });
+  // window.addEventListener("resize", function() {
+  //   updateIllustrationsWidth();
+  // });
 
 // 	window.addEventListener("scroll", function() {
 //     update()
