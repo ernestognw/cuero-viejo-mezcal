@@ -31,11 +31,6 @@ jQuery(function($) { "use strict";
 	function pageCalculations(){
 		winW = $(window).width();
 		winH = $(window).height(); 
-		if ($(window).width()>992){
-			$('.main-content').css({"margin-bottom":footerHeight-1});	
-		}else{
-			$('.main-content').css({"margin-bottom":"0"});	
-		}
 	}
 	pageCalculations();
 					

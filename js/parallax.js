@@ -4,6 +4,7 @@
 //   var opFactor = 750;
 
 //   update();
+updateIllustrationsWidth();
 
   window.addEventListener("resize", function() {
     updateIllustrationsWidth();
@@ -24,7 +25,7 @@ function updateIllustrationsWidth() {
   let h = window.innerHeight;
   let ratio = w / h;
 
-  let layers = document.getElementsByClassName("parallax");  
+  let layers = document.getElementsByClassName("keyart_layer");  
   let backsize = 0;
 
   if (ratio <= 1024 / 768){
@@ -72,13 +73,12 @@ var sceneLayer = [];
 var controllerLayer = [];
 var keyarts = document.getElementsByClassName("parallax");
 
-for (i = 0; i < 9; i++){
-  controllerLayer[i] = new ScrollMagic.Controller(); 
-  let speed = keyarts[i].getAttribute('speed')
-  let yPos = -(window.innerHeight * speed / 100);     
-  layer[i] = TweenMax.to(`#keyart-${i}`, 0.5, {y: -150 * i});
-  console.log(layer[i])
-  sceneLayer[i] = new ScrollMagic.Scene({triggerElement: "#initialTrigger", duration: window.innerHeight*2})
+for (i = 0; i < 8; i++){
+  controllerLayer[i] = new ScrollMagic.Controller();
+  let speed = keyarts[i].getAttribute('data-speed');
+  let yPos = -(window.innerHeight * speed / 100);   
+  layer[i] = TweenMax.to(`#keyart-${i}`, 0.5, {y: yPos});
+  sceneLayer[i] = new ScrollMagic.Scene({triggerElement: "#initialTrigger", duration: window.innerHeight})
         .setTween(layer[i])
         .addIndicators() 
         .addTo(controllerLayer[i]);

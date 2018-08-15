@@ -12,8 +12,9 @@
 }
 
 .front-layer {
-  bottom: -100px !important;
-  z-index: 10000;
+  bottom: -5px !important;
+  /* z-index: 10000; */
+  /* background-size: 100% !important; */
 }
 
 .fix-layer {
@@ -46,7 +47,6 @@
 
 .keyart {
   position: relative;
-  z-index: -10;
 }
 
 .keyart_layer {
@@ -92,7 +92,7 @@
 }
 
 #keyart-7 {
-  background-image: url("images/layer_7.svg");
+  background-image: url("images/layer_7.png");
 }
 
 #keyart-8 {
@@ -133,7 +133,7 @@
   }
 
   #keyart-7 {
-    background-image: url("images/layer_7.svg");
+    background-image: url("images/layer_7.png");
   }
 
   #keyart-8 {
