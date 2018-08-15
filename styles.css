@@ -1,108 +1,144 @@
 * {
-  box-sizing: border-box; }
+  box-sizing: border-box;
+}
 
 #about-image-1 {
-  background-image: url(img/home-7/about_image.png); }
+  background-image: url(img/home-7/about_image.png);
+  left: -900px !important;
+}
 
 .container {
-  padding: 0, 60px; }
+  padding: 0, 60px;
+}
 
 .front-layer {
-  bottom: -100px !important; }
+  bottom: -100px !important;
+  z-index: 10000;
+}
 
 .fix-layer {
-  bottom: -400px !important; }
+  bottom: -400px !important;
+}
 
 .logo-layer {
   display: block;
   height: 100vh !important;
   margin-left: auto;
-  margin-right: auto; }
+  margin-right: auto;
+}
 
 .op-4 {
-  opacity: 0.4; }
+  opacity: 0.4;
+}
 
 .body {
-  margin: -5px; }
+  margin: -5px;
+}
 
-.keyart, .keyart_layer {
-  height: 100vh; }
+.keyart,
+.keyart_layer {
+  height: 100vh;
+}
 
 #parallax {
-  display: block; }
+  display: block;
+}
 
 .keyart {
   position: relative;
-  z-index: -10; }
+  z-index: -10;
+}
 
 .keyart_layer {
   background-position: bottom center;
   background-size: auto 1038px;
   background-repeat: repeat-x;
   width: 100%;
-  position: absolute; }
+  position: absolute;
+}
 
 .keyart_layer.parallax {
   position: fixed;
   background-size: 100%;
-  bottom: 0px; }
+  bottom: 0px;
+}
 
 #keyart-0 {
-  background-image: url("images/layer_0.svg"); }
+  background-image: url("images/layer_0.svg");
+}
 
 #keyart-1 {
-  background-image: url("images/layer_1.svg"); }
+  background-image: url("images/layer_1.svg");
+}
 
 #keyart-2 {
-  background-image: url("images/layer_logo.svg"); }
+  background-image: url("images/layer_logo.svg");
+}
 
 #keyart-3 {
-  background-image: url("images/layer_3.svg"); }
+  background-image: url("images/layer_3.svg");
+}
 
 #keyart-4 {
-  background-image: url("images/layer_4.svg"); }
+  background-image: url("images/layer_4.svg");
+}
 
 #keyart-5 {
-  background-image: url("images/layer_5.svg"); }
+  background-image: url("images/layer_5.svg");
+}
 
 #keyart-6 {
-  background-image: url("images/layer_6.svg"); }
+  background-image: url("images/layer_6.svg");
+}
 
 #keyart-7 {
-  background-image: url("images/layer_7.svg"); }
+  background-image: url("images/layer_7.svg");
+}
 
 #keyart-8 {
-  background-image: url("images/layer_8.svg"); }
+  background-image: url("images/layer_8.svg");
+}
 
 #keyart-scrim {
-  opacity: 0; }
+  opacity: 0;
+}
 
 @media (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
   #keyart-0 {
-    background-image: url("images/layer_0.svg"); }
+    background-image: url("images/layer_0.svg");
+  }
 
   #keyart-1 {
-    background-image: url("images/layer_1.svg"); }
+    background-image: url("images/layer_1.svg");
+  }
 
   #keyart-2 {
-    background-image: url("images/layer_logo.svg"); }
+    background-image: url("images/layer_logo.svg");
+  }
 
   #keyart-3 {
-    background-image: url("images/layer_3.svg"); }
+    background-image: url("images/layer_3.svg");
+  }
 
   #keyart-4 {
-    background-image: url("images/layer_4.svg"); }
+    background-image: url("images/layer_4.svg");
+  }
 
   #keyart-5 {
-    background-image: url("images/layer_5.svg"); }
+    background-image: url("images/layer_5.svg");
+  }
 
   #keyart-6 {
-    background-image: url("images/layer_6.svg"); }
+    background-image: url("images/layer_6.svg");
+  }
 
   #keyart-7 {
-    background-image: url("images/layer_7.svg"); }
+    background-image: url("images/layer_7.svg");
+  }
 
   #keyart-8 {
-    background-image: url("images/layer_8.svg"); } }
+    background-image: url("images/layer_8.svg");
+  }
+}
 
 /*# sourceMappingURL=styles.css.map */
