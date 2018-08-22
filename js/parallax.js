@@ -60,20 +60,19 @@ function updateIllustrationsWidth() {
 var controller = new ScrollMagic.Controller();
 
 // build tween
-var aboutImageTween = TweenMax.to("#about-image-1", 0.5, {x: 950});
+var aboutImageTween = TweenMax.to("#about-image-1", 0.1, {x: 850});
 // build scene and supply getMousePos function as duration
 var scene = new ScrollMagic.Scene({triggerElement: "#trigger", duration: 300})
         .setTween(aboutImageTween)
         .addIndicators() 
         .addTo(controller);
-
-
+        
 var layer = [];
 var sceneLayer = [];
 var controllerLayer = [];
 var keyarts = document.getElementsByClassName("parallax");
 
-for (i = 0; i < 8; i++){
+for (i = 0; i < 7; i++){
   controllerLayer[i] = new ScrollMagic.Controller();
   let speed = keyarts[i].getAttribute('data-speed');
   let yPos = -(window.innerHeight * speed / 100);   

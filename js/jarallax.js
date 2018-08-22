@@ -139,13 +139,13 @@
     Jarallax.prototype.initImg = function() {
         var _this = this;
 
-        // get image src
-        if(_this.image.src === null) {
-            _this.image.src = _this.$item.css('background-image').replace(/^url\(['"]?/g,'').replace(/['"]?\)$/g,'');
-        }
-        if(!_this.image.src || _this.image.src === 'none') {
-            return false;
-        }
+        // // get image src
+        // if(_this.image.src === null) {
+        //     _this.image.src = _this.$item.css('background-image').replace(/^url\(['"]?/g,'').replace(/['"]?\)$/g,'');
+        // }
+        // if(!_this.image.src || _this.image.src === 'none') {
+        //     return false;
+        // }
         return true;
     }
 

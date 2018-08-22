@@ -285,8 +285,8 @@ div[class*="empty-"] {width: 100%; clear: both;}
 .f1 {font-family: 'Oxygen', sans-serif;}
 .f1 {font-family: 'Raleway', sans-serif;}
 .f1 {font-family: 'Droid Serif', serif;}
-.f1 {font-family: 'Playfair Display', serif;}
-.f1 {font-family: 'Noto Serif', serif;}
+.f1 {font-family: 'Allema', serif;}
+.f1 {font-family: 'Montserrat', serif;}
 .f1 {font-family: 'Bevan', cursive;}
 .f11 {font-family: 'Cormorant Garamond', serif;}
 .f1 {font-family: 'Lora', serif;}
@@ -299,7 +299,7 @@ div[class*="empty-"] {width: 100%; clear: both;}
 .h4 {font-size: 18px; line-height: 24px;}
 .h5 {font-size: 16px; line-height: 24px;}
 .h6 {font-size: 13px; line-height: 20px;}
-.tt {text-transform: uppercase;}  
+.tt {} 
 .line-sepp {position: relative; display: block; width: 20px; height: 3px; background: #4b4b4b;}
 .text-center .line-sepp {margin: 0 auto;}
 .line-sepp-2 {display: inline-block; vertical-align: middle;}
@@ -307,16 +307,16 @@ div[class*="empty-"] {width: 100%; clear: both;}
 
 .page-style-1, .page-style-1 input, .page-style-1 textarea, .page-style-1 select {font-family: 'Ubuntu', sans-serif;}
 .page-style-1 .title {font-family: 'Great Vibes', cursive;}
-.page-style-1 .sub-title { font-size: 50px; line-height: 50px; text-transform: uppercase; font-weight: 700;}
+.page-style-1 .sub-title { font-size: 50px; line-height: 50px; font-weight: 700;}
 .page-style-1 .simple-sub-text {font-family: 'Bitter', serif;} 
-.page-style-1 h3, .page-style-1 h4, .page-style-1 h5, .page-style-1 h6 {font-weight: 700; text-transform: uppercase;}
+.page-style-1 h3, .page-style-1 h4, .page-style-1 h5, .page-style-1 h6 {font-weight: 700;}
 .page-style-1 .color-type-1 .simple-text p {color: rgba(255,255,255,0.6);}
 
 .page-style-2, .page-style-2 input, .page-style-2 textarea, .page-style-2 select {font-family: 'Raleway', sans-serif;}
 .page-style-2 .title {font-family: 'Euphoria Script', cursive;}
 .page-style-2 .h1 {font-size: 100px; line-height: 80px;}
 .page-style-2 .h2 {font-size: 65px; line-height: 75px;}
-.page-style-2 h4 {text-transform: uppercase;}
+.page-style-2 h4 {}
 .page-style-2 h3, .page-style-2 h4, .page-style-2 h5, .page-style-2 h6 {font-weight: 700;}
 .page-style-2 .list-style-2 b {font-weight:700; color: #464646;}
 .page-style-2 .color-type-1 .simple-text p {color: rgba(254,254,254,0.6);}
@@ -345,7 +345,7 @@ div[class*="empty-"] {width: 100%; clear: both;}
 .page-style-5, .page-style-5 .page-button {font-family: 'Droid Serif', serif;}
 .page-style-5 .page-button .txt {font-weight: 400;}
 .page-style-5 .title {font-family: 'Great Vibes', cursive;}
-.page-style-5 .sub-title {font-family: 'Raleway', sans-serif; font-size: 50px; line-height: 40px; font-weight: 800; text-transform: uppercase;}
+.page-style-5 .sub-title {font-family: 'Raleway', sans-serif; font-size: 50px; line-height: 40px; font-weight: 800;}
 .page-style-5 .h2 {font-size: 60px; line-height: 70px;}
 .page-style-5 h3, .page-style-5 h4, .page-style-5 h5, .page-style-5 h6 {font-weight: 700;}
 
@@ -356,7 +356,7 @@ div[class*="empty-"] {width: 100%; clear: both;}
 .page-style-6 .h1 {font-size: 106px; line-height: 100px;}
 .page-style-6 .h1.color-2, .page-style-6 .h5.color-2, .h4.color-2 .h5.color-2 a, .page-style-6 .h4.color-2, .h2.color-2, 
 .page-style-6 .post-navigation a, .page-style-6 .delivery p{color: #464646;}
-.page-style-6 .h3 {font-size: 45px; line-height: 55px; text-transform: uppercase;}
+.page-style-6 .h3 {font-size: 45px; line-height: 55px;}
 .page-style-6 .h3.sm {font-size: 23px; line-height: 30px;}
 .page-style-6 .h4.sm {font-size: 30px; line-height: 32px;}
 .page-style-6 .h5.sm {font-size: 14px; line-height: 18px;}
@@ -372,20 +372,20 @@ div[class*="empty-"] {width: 100%; clear: both;}
 .page-style-6 .simple-item.color-type-1 .simple-text.md p{color: rgba(255,255,255,0.7);}
 .page-style-6 .list-style-1 .menu-price, .page-style-6 .menu-price.style-2{font-weight: 400;}
 
-.page-style-7 {font-family: 'Noto Serif', serif;}
-.page-style-7 .title {font-family: 'Playfair Display', serif; text-transform: uppercase; font-weight: 800;}
-.page-style-7 .sub-title {font-size: 28px; line-height: 32px; font-weight: 800; font-family: 'Playfair Display', serif;}
+.page-style-7 {font-family: 'Montserrat', serif;}
+.page-style-7 .title {font-family: 'Allema', serif; font-weight: 800;}
+.page-style-7 .sub-title {font-size: 28px; line-height: 32px; font-weight: 800; font-family: 'Allema', serif;}
 .page-style-7 .sub-title.lg{font-size: 39px; line-height: 39px;}
 .page-style-7 .h1 {font-size: 70px; line-height: 70px;}
 .page-style-7 .h2 {font-size: 50px; line-height: 50px; font-weight: 900;}
 .page-style-7 h3, .page-style-7 h4, .page-style-7 h5, .page-style-7 h6 {font-weight: 700;}
 .page-style-7 .color-type-1 .simple-text p {color: rgba(254,254,254,0.6);} 
-.page-style-7 .color-type-2 .h2 {color: #4b4b4b;}
+.page-style-7 .color-type-2 .h2 {color: #e1e1e1;}
 .page-style-7 .h5.color-2, .page-style-7 .title-news {color: #464646;}
 
 .page-style-8, .page-style-8 input, .page-style-8 textarea, .page-style-8 select {font-family: 'Droid Serif', serif;}
 .page-style-8 .title {font-family: 'Raleway', sans-serif; font-weight: 800;}
-.page-style-8 .sub-title {font-family: 'Bevan', cursive; text-transform: uppercase;}
+.page-style-8 .sub-title {font-family: 'Bevan', cursive;}
 .page-style-8 .sub-title.f-1 {font-size: 125px; line-height: 115px;}
 .page-style-8 .sub-title.f-2 {font-size: 193px; line-height: 170px;}
 .page-style-8 .h3 {font-size: 30px; line-height: 36px;}
@@ -394,13 +394,13 @@ div[class*="empty-"] {width: 100%; clear: both;}
 .page-style-8 .main-caption .simple-text.md {color: #464646;}
 .page-style-8 .color-type-1.opacity .simple-text p {color: rgba(254,254,254,0.6); padding: 0 20px;}
 
-.page-style-9, .page-style-9 input, .page-style-9 textarea, .page-style-9 select {font-family: 'Playfair Display', serif;}
+.page-style-9, .page-style-9 input, .page-style-9 textarea, .page-style-9 select {font-family: 'Allema', serif;}
 .page-style-9 .title {font-family: 'Great Vibes', cursive; position: relative; padding: 0 20px; vertical-align: middle; display: inline-block;}
 .page-style-9 .h2 {font-size: 65px; line-height: 70px;}
 .page-style-9 .h3 {font-size: 28px; line-height: 32px;}
 .page-style-9 .header-menu > li {font-weight: 400;}
 .page-style-9 .page-button .txt {font-weight: 400;}
-.page-style-9 h2:not(.title), .page-style-9 h3, .page-style-9 h4, .page-style-9 h5, .page-style-9 h6 {text-transform: uppercase;}
+.page-style-9 h2:not(.title), .page-style-9 h3, .page-style-9 h4, .page-style-9 h5, .page-style-9 h6 {}
 .page-style-9 .h2.caption, .page-style-9 .h3.caption, .page-style-9 .main-caption .simple-text.md, .page-style-9 .address, .page-style-9 .list-style-2 b{color: #464646;}
 .page-style-9 .gallery-block .simple-text p {color: rgba(209, 209, 209, 0.6);}
 
@@ -446,7 +446,7 @@ div[class*="empty-"] {width: 100%; clear: both;}
 .img-list li img {display: block; max-width: 100%;}
 .list-style-2 li a, .list-style-3 li a, .list-style-4 li a, .contact a {color: #898989;}
 .list-style-2 b {font-weight: 700;}
-.list-style-3 li {font-size: 13px; line-height: 14px; text-transform: uppercase; color: #898989; margin-bottom: 15px; margin-bottom: 10px;}
+.list-style-3 li {font-size: 13px; line-height: 14px; color: #898989; margin-bottom: 15px; margin-bottom: 10px;}
 .list-style-4 li:before {content: ''; position: absolute; left: 0px; top: 50%; width: 10px; height: 1px; background: #898989;transition: all 0.35s ease-out; -webkit-transition: all 0.35s ease-out; -ms-transition: all 0.35s ease-out;}
 .list-style-4 li { padding-left: 20px; line-height: 20px;  margin-bottom: 10px;}
 .list-style-4 li a {display: block; font-size: 14px; color: #898989; font-weight: 700;}
@@ -659,7 +659,7 @@ div[class*="empty-"] {width: 100%; clear: both;}
 
 .page-button {position: relative; display: inline-block; height: 50px; text-align: center;}
 .page-button i {position: absolute; left: 0px; top: 0px; width: 100%; height: 100%;}
-.page-button .txt {position: relative; z-index: 2; font-size: 14px; font-weight: 700; line-height: 50px; display: block; text-transform: uppercase; white-space: nowrap;}
+.page-button .txt {position: relative; z-index: 2; font-size: 14px; font-weight: 700; line-height: 50px; display: block; white-space: nowrap;}
 .page-button .txt.sm{font-size: 12px;} 
 .page-button.md .txt{line-height: 44px;}
 .page-button input {position: absolute; left: 0px; top: 0px; width: 100%; cursor: pointer; height: 100%; opacity: 0; z-index: 5;}
@@ -805,7 +805,7 @@ textarea.input-field.sm {height: 125px;}
 .checkbox-entry-wrap .checkbox-entry input:checked + span i:before {opacity: 1;transform: scale(1); -webkit-transform: scale(1);-ms-transform: scale(1);}
 .subscribe-form {position: relative;}
 .subscribe-form .input-field {height: 50px; line-height: 48px; padding: 0 15px; border-right: 0 none;}
-.sub-submit {position: relative; padding: 0 22px; height: 50px; line-height: 50px; color: #fff; text-transform: uppercase; font-weight: 700; color: #fff; background: #000; display: inline-block; text-align: center; font-size: 12px; transition: all 0.25s ease-out; -webkit-transition: all 0.25s ease-out; -ms-transition: all 0.25s ease-out;}
+.sub-submit {position: relative; padding: 0 22px; height: 50px; line-height: 50px; color: #fff; font-weight: 700; color: #fff; background: #000; display: inline-block; text-align: center; font-size: 12px; transition: all 0.25s ease-out; -webkit-transition: all 0.25s ease-out; -ms-transition: all 0.25s ease-out;}
 .subscribe-form:not(.form-type-2) .sub-submit:hover {background: #1b2228; color: #fff;}
 .sub-submit input {position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; z-index: 1; cursor: pointer;}
 .form-type-2 .sub-submit {background: #fff; color: #1b2228;}
@@ -862,7 +862,7 @@ textarea.input-field.sm {height: 125px;}
 .menu-item-3 .text {padding: 0px 40px 17px;}
 .menu-item-3 .text.type-2 {padding: 0px 5px 17px;}
 .menu-item-4 {padding: 10px; background: #fff; max-height: 670px;}
-.menu-item-4 .caption, .menu-item-5 .caption {text-transform: uppercase;}
+.menu-item-4 .caption, .menu-item-5 .caption {}
 .menu-item.item-type-2 {font-size: 0px;}
 .menu-item.item-type-2 .image {width: 50%; display: inline-block; vertical-align: middle; max-height: 300px;}
 .menu-item.item-type-2 .text {display: inline-block; vertical-align: middle; width: 50%; padding: 0 30px; text-align: left;}
@@ -974,18 +974,18 @@ textarea.input-field.sm {height: 125px;}
 .countdown-type .ClassyCountdown-wrapper > div > div {display: block!important; margin-top: 0px!important;}
 .countdown-type .ClassyCountdown-value div {font-size: 65px; font-weight: 700; color: #fff;  line-height: 80px; text-align: center; font-family: 'Great Vibes', cursive;}
 .countdown .ClassyCountdown-value {position: absolute; top: 50%; left: 0px; width: 100%; margin-top: 0px!important; font-size: inherit!important; transform: translateY(-50%);}
-.countdown-type .ClassyCountdown-value span {font-size: 14px!important; font-weight: 400; color: rgba(255,255,255,0.6); font-family: 'Lora', sans-serif; text-transform: uppercase;}
+.countdown-type .ClassyCountdown-value span {font-size: 14px!important; font-weight: 400; color: rgba(255,255,255,0.6); font-family: 'Lora', sans-serif;}
 
 /*-------------------------------------------------------------------------------------------------------------------------------*/
 /* 06 - FOOTERS */
 /*-------------------------------------------------------------------------------------------------------------------------------*/
 .footer {position: relative;}
-.main-content {position: relative; background: #fedcc8; overflow: hidden; margin-top: 0px!important;}
+.main-content {position: relative; background: #fff; overflow: hidden; margin-top: 0px!important;}
 .footer-style-1 {background: #181a1c;}
 .footer-style-1 .title {color: #fff;}
 .footer-style-1.type-2 .copyright{background: #2b2b2b;}
 .footer-item {position: relative;}
-.footer-item .h5 {color: #fff; text-transform: uppercase;}
+.footer-item .h5 {color: #fff;}
 .copyright span {color: #898989; font-size: 14px;}
 .recent-post {position: relative; display: inline-block; width: 100%;}
 .recent-post .caption {text-transform: none; color: #898989;}
@@ -1025,7 +1025,7 @@ textarea.input-field.sm {height: 125px;}
 .navigation {position: relative; max-width: 1520px; margin: 0 auto; justify-content: space-between;}
 .nav {position: relative; float: right; font-size: 0px;}
 .header-menu li a {color: inherit; position: relative;}
-.header-menu > li {display: inline-block; font-size: 12px; font-weight: 700; color: #fff; text-transform: uppercase; position: relative;}
+.header-menu > li {display: inline-block; font-size: 12px; font-weight: 700; color: #fff; position: relative;}
 .header-menu > li > a {padding: 43px 0px 41px; margin: 0px 25px; display: inline-block;}
 .header-menu > li > ul li {color: #898989; position: relative;}
 .header-menu > li > ul li a {padding: 10px 25px; display: inline-block;}
@@ -1295,7 +1295,7 @@ body.overflow {overflow: hidden;}
 .tab-container-item.active {opacity: 1;}
 .tab-container-item:first-child {display: block;}
 .tab-container-wraps .simple-item .image img{max-width: 270px;}
-.item-tabs li {display: inline-block; font-size: 16px; color: #898989; text-transform: uppercase; position: relative;}
+.item-tabs li {display: inline-block; font-size: 16px; color: #898989; position: relative;}
 .item-tabs li a {color: inherit; margin: 0 28px;}
 .item-tabs li.active .link-hover-line:before {width: 100%;}
 .item-tabs.type-2 li {color: #464646;}
@@ -1483,7 +1483,7 @@ body.overflow {overflow: hidden;}
 .shop-filter .found-items, .shop-filter .title-select, .shop-filter .show-item, .shop-filter .sort-b, .shop-filter .sort-by, .shop-filter .item-tabs{display: inline-block;font-size: 0;}
 .shop-filter .shop-select{float: right;}
 .shop-filter .show-item{margin-right: 25px;}
-.input-field.type-2{position: relative;width: auto;height: 25px;line-height: 25px;font-size: 14px;padding: 0;padding-right: 25px;padding-left: 7px;text-transform: uppercase;border: none;}
+.input-field.type-2{position: relative;width: auto;height: 25px;line-height: 25px;font-size: 14px;padding: 0;padding-right: 25px;padding-left: 7px;border: none;}
 .shop-filter .item-tabs.type-2 li a {margin: 0;}
 .view-1, .view-2 {display: inline-block;position: relative;width: 21px;height: 21px;vertical-align: middle;cursor: pointer;}
 .shop-filter .item-tabs.type-2 li:first-child {margin-right: 10px;margin-left: 25px;}
@@ -1723,7 +1723,7 @@ select.input-field.type-2 {font-weight: 700;background: url(../img/select-arrow-
 /* 23 - THEMEFOREST BUTTON */
 /*-------------------------------------------------------------------------------------------------------------------------------*/
 .pulse-wr {position: fixed;bottom: 50px;right: 15px;width: 120px;height: 120px;margin: 0 auto;z-index: 251;-webkit-perspective: 1000;-webkit-backface-visibility: hidden;background: transparent;}
-.popup-pulse {color: #fff;font-size: 22px;font-weight: bold;position: relative;top: 50%;left: 50%;margin-left: -35px;margin-top: -35px;background-color: #6f9a37;background-repeat: no-repeat;background-position: center center;background-size: 50px 50px;display: block;width: 70px;height: 70px;text-transform: uppercase;text-align: center;line-height: 70px;border: none;border-radius: 50%;cursor: pointer;box-shadow: 0 0 0 0 rgba(111,154,55, 0.5);-webkit-animation: zoom 1.3s infinite;animation: zoom 1.3s infinite;}
+.popup-pulse {color: #fff;font-size: 22px;font-weight: bold;position: relative;top: 50%;left: 50%;margin-left: -35px;margin-top: -35px;background-color: #6f9a37;background-repeat: no-repeat;background-position: center center;background-size: 50px 50px;display: block;width: 70px;height: 70px;text-align: center;line-height: 70px;border: none;border-radius: 50%;cursor: pointer;box-shadow: 0 0 0 0 rgba(111,154,55, 0.5);-webkit-animation: zoom 1.3s infinite;animation: zoom 1.3s infinite;}
 .popup-pulse:before {border-radius: 50%;position: absolute;bottom: 5px;left: -15px;width: 32px;height: 32px;background-size: 32px 32px;background-image: url(../img/logo-envato-icon.png);content: '';}
 .popup-pulse span {position: absolute;top: 22px;left: 14px;font-size: 13px;line-height: 14px;}
 .popup-pulse:hover {-webkit-animation: none;}

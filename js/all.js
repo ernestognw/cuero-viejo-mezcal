@@ -260,9 +260,9 @@ jQuery(function($) { "use strict";
                     
     function headerFixed() {
        if ($(window).scrollTop() >= $('.full-height-slider').height() - 138) {
-		    $('header').addClass('fixed');
+        $('header').addClass('fixed');
 		}else{
-            $('header').removeClass('fixed');
+        $('header').removeClass('fixed');
         }
     }                
              
@@ -273,7 +273,7 @@ jQuery(function($) { "use strict";
 		}else{
        $('header').removeClass('scrol');
        document.getElementById('header').setAttribute('style', 'display: none;')       
-		} 
+		}
     }
                     
     $('.up-button').on('click', function(){
