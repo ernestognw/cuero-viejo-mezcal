@@ -267,7 +267,7 @@ jQuery(function($) { "use strict";
     }                
              
     function headerScroll() {
-       if ($(window).scrollTop() >= $('.header').height()) {
+       if ($(window).scrollTop() >= 1) {
        $('header').addClass('scrol');
        document.getElementById('header').setAttribute('style', 'display: block;')
 		}else{

@@ -1,43 +1,3 @@
-/*STYLE.CSS*/
-/*-------------------------------------------------------------------------------------------------------------------------------*/
-/*This is main CSS file that contains custom style rules used in this template*/
-/*-------------------------------------------------------------------------------------------------------------------------------*/
-/* Template Name: Delice.*/
-/* Version: 1.0 Initial Release*/
-/* Author: Gerich & Taras*/
-/* Copyright: (C) 2017 */
-/*-------------------------------------------------------------------------------------------------------------------------------*/
-/*--------------------------------------------------------*/
-/* TABLE OF CONTENTS: */
-/*--------------------------------------------------------*/
-/* 01 - RESET */
-/* 02 - EMPTY SPACE */
-/* 03 - BOOTSTRAP */
-/* 04 - HELP CLASSES */
-/* 05 - TYPOGRAPHY */
-/* 06 - FOOTERS */
-/* 07 - HEADERS */
-/* 08 - HOME PAGE */
-/* 09 - ABOUT */
-/* 10 - SERVICES */
-/* 11 - PAGE MENU */
-/* 12 - BLOG */
-/* 13 - SHOP */
-/* 14 - CHECKOUT */
-/* 15 - PRODUCT DETAIL */
-/* 16 - COMING SOON */
-/* 17 - HOME-6 */
-/* 18 - HOME-7 */
-/* 19 - GALLERY */
-/* 20 - CONTACT */
-/* 21 - QUICK POP-UP */
-/* 22 - LOG IN POP-UP */
-/* 23 - THEMEFOREST BUTTON */
-/* 24 - RESPONSIVE */
-/* 25 - SLIDER ANIMATION */
-
-/*-------------------------------------------------------------------------------------------------------------------------------*/
-
 @import url('https://fonts.googleapis.com/css?family=Bitter:400,400i');
 @import url('https://fonts.googleapis.com/css?family=Ubuntu:300,400,700');
 @import url('https://fonts.googleapis.com/css?family=Great+Vibes');
@@ -53,6 +13,9 @@
 @import url('https://fonts.googleapis.com/css?family=Euphoria+Script');
 @import url('https://fonts.googleapis.com/css?family=Norican');
 @import url('https://fonts.googleapis.com/css?family=Lato:400,700');
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+@import url('../fonts/Allema.ttf');
+
 
 /*-------------------------------------------------------------------------------------------------------------------------------*/
 /* 01 - RESET */
@@ -659,7 +622,7 @@ div[class*="empty-"] {width: 100%; clear: both;}
 
 .page-button {position: relative; display: inline-block; height: 50px; text-align: center;}
 .page-button i {position: absolute; left: 0px; top: 0px; width: 100%; height: 100%;}
-.page-button .txt {position: relative; z-index: 2; font-size: 14px; font-weight: 700; line-height: 50px; display: block; white-space: nowrap;}
+.page-button .txt {position: relative; font-size: 14px; font-weight: 700; line-height: 50px; display: block; white-space: nowrap;}
 .page-button .txt.sm{font-size: 12px;} 
 .page-button.md .txt{line-height: 44px;}
 .page-button input {position: absolute; left: 0px; top: 0px; width: 100%; cursor: pointer; height: 100%; opacity: 0; z-index: 5;}
@@ -1157,7 +1120,7 @@ body.overflow {overflow: hidden;}
     .header-menu > li > a:before {content: ''; position: absolute; left: 0px; bottom: 27px; width: 0%; height: 1px; background: #fff;transition: all 0.35s ease-out; -webkit-transition: all 0.35s ease-out;-ms-transition: all 0.35s ease-out;}
     .header-menu > li > a:hover:before {width: 100%;}
     .menu-arr {display: none;}
-    .header.scrol {background: #181a1c; }
+    .header.scrol {background: #000; }
     .header.scrol:not(.header-style-2) {box-shadow: 0 0 4px rgba(0,0,0,0.2);}
     .header-style-2.scrol .nav {box-shadow: 0 0 4px rgba(0,0,0,0.2);}
     .header.scrol.header-style-2 {background: none;}
@@ -1817,6 +1780,11 @@ select.input-field.type-2 {font-weight: 700;background: url(../img/select-arrow-
 	.page-style-6 .page-span.left, .page-style-6 .page-span.right{display: none;}
 
     .md-hide {display: none!important;}
+    .md-fix {margin-top: 10vh}
+    .md-fix-center {
+      margin-top: 60%;
+    }
+    .md-center {background-position: center bottom !important; background-size: 100% !important;}
 	.left-right-item .bg.left-50, .left-right-item .bg.right-50  {width: 100%; position: relative; height: 300px;}
 	.simple-item-style-2.min-h-450 {min-height: 100%;}
 	.item-tabs li {font-size: 14px;}
@@ -2063,8 +2031,243 @@ transition: all 0.35s ease-out; }
 .no-animated .scroll-type-1 {opacity: 1; transform: translateY(0); -webkit-transform: translateY(0);-ms-transform: translateY(0);}
 }
 
+* {
+  box-sizing: border-box;
+}
 
+#about-image-1 {
+  background-image: url(../images/about_image.png);
+  left: -900px !important;
+}
 
+.container {
+  padding: 0, 60px;
+}
 
+.front-layer {
+  bottom: -5px !important;
+  /* z-index: 10000; */
+  /* background-size: 100% !important; */
+}
 
+.fix-layer {
+  bottom: -400px !important;
+}
 
+.logo-layer {
+  display: block;
+  height: 100vh !important;
+  margin-left: auto;
+  margin-right: auto;
+  background-position: top !important;
+}
+
+.op-4 {
+  opacity: 0.4;
+}
+
+.body {
+  margin: -5px;
+}
+
+.keyart,
+.keyart_layer {
+  height: 100vh;
+}
+
+#parallax {
+  display: block;
+}
+
+.keyart {
+  position: relative;
+}
+
+.keyart_layer {
+  background-position: bottom center;
+  background-size: auto 1038px;
+  background-repeat: repeat-x;
+  width: 100%;
+  position: absolute;
+}
+
+.keyart_layer.parallax {
+  position: fixed;
+  background-size: 100%;
+  bottom: 0px;
+}
+
+#keyart-0 {
+  background-image: url("../images/layer_0.svg");
+}
+
+#keyart-1 {
+  background-image: url("../images/layer_1.svg");
+}
+
+#keyart-2 {
+  background-image: url("../images/layer_logo.svg");
+}
+
+#keyart-3 {
+  background-image: url("../images/layer_3.svg");
+}
+
+#keyart-4 {
+  background-image: url("../images/layer_4.svg");
+}
+
+#keyart-5 {
+  background-image: url("../images/layer_5.svg");
+}
+
+#keyart-6 {
+  background-image: url("../images/layer_6.svg");
+}
+
+#keyart-7 {
+  background-image: url("../images/layer_7.png");
+}
+
+#keyart-8 {
+  background-image: url("../images/layer_8.svg");
+}
+
+#keyart-scrim {
+  opacity: 0;
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  #keyart-0 {
+    background-image: url("../images/layer_0.svg");
+  }
+
+  #keyart-1 {
+    background-image: url("../images/layer_1.svg");
+  }
+
+  #keyart-2 {
+    background-image: url("../images/layer_logo.svg");
+  }
+
+  #keyart-3 {
+    background-image: url("../images/layer_3.svg");
+  }
+
+  #keyart-4 {
+    background-image: url("../images/layer_4.svg");
+  }
+
+  #keyart-5 {
+    background-image: url("../images/layer_5.svg");
+  }
+
+  #keyart-6 {
+    background-image: url("../images/layer_6.svg");
+  }
+
+  #keyart-7 {
+    background-image: url("../images/layer_7.png");
+  }
+
+  #keyart-8 {
+    background-image: url("../images/layer_8.svg");
+  }
+}
+
+.page-style-7 h4,
+.q-text .qq {
+  color: #898989;
+}
+
+.page-style-7 h5 {
+  color: #ca2b2d;
+}
+
+.black-overlay {
+  height: 100%;
+  opacity: 0.7;
+  background-color: #000;
+}
+/*# sourceMappingURL=styles.css.map */
+
+.shop-section {
+  height: 1000px;
+  display: flex;
+  justify-content: center;
+  background-color: black;
+}
+
+.shop {
+  height: 140vh
+}
+
+.bottle {
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+  height: 70vh;
+  width: auto;
+}
+
+#pinContainer {
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+  background-color: black;
+}
+.panel {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  background-color: black;
+}
+.blue {
+  background-color: blue;
+}
+.green {
+  background-color: green;
+}
+.yellow {
+  background-color: yellow;
+}
+.purple {
+  background-color: purple;
+}
+
+.md-fix-center {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+}
+
+.love {
+  display: inline-block;
+  position: relative;
+  top: .1em;
+  margin: 0 4px;
+  color: red;
+  -webkit-transform: scale(.9);
+  -moz-transform: scale(.9);
+  transform: scale(.9);
+  -webkit-animation: love .5s infinite linear alternate-reverse;
+  -moz-animation: love .5s infinite linear alternate-reverse;
+  animation: love .5s infinite linear alternate-reverse;
+}
+@-webkit-keyframes love {
+  to {-webkit-transform: scale(1.2);}
+}
+@-moz-keyframes love {
+  to {-moz-transform: scale(1.2);}
+}
+@keyframes love {
+  to {transform: scale(1.2);}
+}
+.white {
+  color: white;
+}
+.footer-logo {
+  width: 200px;
+  display: block;
+  margin: auto;
+}
