@@ -2067,6 +2067,12 @@ transition: all 0.35s ease-out; }
   background-position: top !important;
 }
 
+@media (max-width: 992px){
+  .logo-layer {
+    background-position: center !important;
+  }
+}
+
 .op-4 {
   opacity: 0.4;
 }
