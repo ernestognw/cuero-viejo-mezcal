@@ -143,7 +143,7 @@ div[class*="empty-"] {width: 100%; clear: both;}
 .page-color-style-1.page-style-5 .title, .page-color-style-1 .header-menu > li > ul li:hover > a, .page-color-style-1 .login-item a:hover, .page-color-style-1 .button-style-3:not(.type-2), .page-color-style-1 .button-style-4:not(.type-2), .page-color-style-1 .button-style-1.type-2, .page-color-style-1 .checkbox-entry-wrap .checkbox-entry input:checked + span p, .page-color-style-1 .page-navigation a:hover, .page-color-style-1 .copyright span a, .page-color-style-1 .link-hover:hover, .page-color-style-1 .f-twitt a, .page-color-style-1 .caption-inst a span, .page-color-style-1 .link-hover-line:hover, .page-color-style-1 .main-col, .page-color-style-1 .button-style-1.type-4:hover, .page-color-style-1 .countdown-type .ClassyCountdown-value div, .page-color-style-1 .item-tabs li.active .link-hover-line, .page-color-style-1 .popup .forgot a:hover, .page-color-style-1 .popup .reg-now a:hover {color: #f4a01b;}
 .page-color-style-1 .button-style-1:before, .page-color-style-1 .header-menu > li > a:before, .page-color-style-1 .header-style-2 .header-menu > li:before, .page-color-style-1 .header-style-2 .header-menu > li:after, .page-color-style-1 .shop-number, .page-color-style-1 .button-style-3:not(.type-2):before, .page-color-style-1 .button-style-3:not(.type-2):after, .page-color-style-1 .button-style-3:not(.type-2) i:after, .page-color-style-1 .button-style-3:not(.type-2) i:before, .page-color-style-1 .button-style-4:not(.type-2) i:before, .page-color-style-1 .button-style-4:not(.type-2) i:after, .page-color-style-1 .checkbox-entry i:before, .page-color-style-1 .subscribe-form:not(.form-type-2) .sub-submit, .page-color-style-1 .form-type-2 .sub-submit:hover, .page-color-style-1 .ui-slider .ui-slider-range, .page-color-style-1 .ui-slider .ui-slider-handle:before, .page-color-style-1 .link-hover-line:before, .page-color-style-1.page-style-1 .page-span-1:before, .page-color-style-1.page-style-1 .page-span-1:after, .page-color-style-1.page-style-1 .page-span-2:before, .page-color-style-1.page-style-1 .page-span-2:after, .page-color-style-1 .list-style-4 li:hover:before, .page-color-style-1 .page-span:before, .page-color-style-1 .page-span:after, .page-color-style-1.page-style-2 .simple-item-style-2.color-type-1, .page-color-style-1 .swiper-container-horizontal> .swiper-pagination-2.swiper-pagination-bullets .swiper-pagination-bullet:after {background: #f4a01b;}
 .page-color-style-1 .follow a:hover path, .page-color-style-1 .search-open:hover path, .page-color-style-1 .close-search:hover path, .page-color-style-1 .submit-search:hover path, .page-color-style-1 .header .right-block .like-item.active path, .page-color-style-1 .header .right-block .like-item:hover path, .page-color-style-1 .page-navigation a:hover path, .page-color-style-1 .f-twitt path, .page-color-style-2 .main-fill-col path, .page-color-style-2 .main-fill-hover:hover path, .page-color-style-1 .close-popup.type-2:hover path, .page-color-style-1 .main-fill-col * {fill: #f4a01b;} 
-.page-color-style-1 .button-style-4:not(.type-2):before, .page-color-style-1 .button-style-4:not(.type-2):after, .page-color-style-1 .button-style-1.type-2, .page-color-style-1 .checkbox-entry input:checked + span i, .page-color-style-1 .page-navigation a:before, .page-color-style-1 .ui-slider .ui-slider-handle, .page-color-style-1.page-style-2 .simple-item-style-1.color-type-2, .page-color-style-1 .button-style-1.type-4:after, .page-color-style-1 .button-style-1.type-2:after, .page-color-style-1 .input-field:focus, .page-color-style-1 .focus {border-color: #f4a01b;}
+.page-color-style-1 .button-style-4:not(.type-2):before, .page-color-style-1 .button-style-4:not(.type-2):after, .page-color-style-1 .button-style-1.type-2, .page-color-style-1 .checkbox-entry input:checked + span i, .page-color-style-1 .page-navigation a:before, .page-color-style-1 .ui-slider .ui-slider-handle, .page-color-style-1.page-style-2 .simple-item-style-1.color-type-2, .page-color-style-1 .button-style-1.type-4:after, .page-color-style-1 .button-style-1.type-2:after, .page-color-style-1 .input-field:focus, .page-color-style-1 .focus {border-color: red; background-color: white;}
 .page-color-style-1.page-style-2 .testimonials-item .text:after {border-color: #f4a01b transparent transparent transparent;}
 .page-color-style-1.page-style-2 .testimonials-item .text:before {box-shadow: 0 0 0 20px #f4a01b;}
 @media (max-width: 480px) { 
@@ -215,7 +215,7 @@ div[class*="empty-"] {width: 100%; clear: both;}
 .page-color-style-7.page-style-7 .title, .page-color-style-7 .header-menu > li > ul li:hover > a, .page-color-style-7 .login-item a:hover, .page-color-style-7 .button-style-3:not(.type-2), .page-color-style-7 .button-style-4:not(.type-2), .page-color-style-7 .button-style-1.type-2, .page-color-style-7 .checkbox-entry-wrap .checkbox-entry input:checked + span p, .page-color-style-7 .page-navigation a:hover, .page-color-style-7 .copyright span a, .page-color-style-7 .link-hover:hover, .page-color-style-7 .f-twitt a, .page-color-style-7 .caption-inst a span, .page-color-style-7 .link-hover-line:hover, .page-color-style-7 .button-style-1.type-4:hover, .page-color-style-7 .countdown-type .ClassyCountdown-value div, .page-color-style-7 .main-col, .page-color-style-7 .item-tabs li.active .link-hover-line, .page-color-style-7 .text-block-wrapp .title-blog:hover, .page-color-style-7 .blog-info li a:hover, .page-color-style-7 .post-navigation .h5.color-2 a:hover, .page-color-style-7 .input-field.type-2, .page-color-style-7 .checkbox-entry-wrap .page-color-style-7 .checkbox-entry input:checked + .content-check .simple-text p, .page-color-style-7 .location-bottom .color-type-3 .contact a:hover, .page-color-style-7 .popup .forgot a:hover, .page-color-style-7 .popup .reg-now a:hover {color: #ca2b2d;}
 .page-color-style-7 .button-style-1:before, .page-color-style-7 .header-menu > li > a:before, .page-color-style-7 .header-style-2 .header-menu > li:before, .page-color-style-7 .header-style-2 .header-menu > li:after, .page-color-style-7 .shop-number, .page-color-style-7 .button-style-3:not(.type-2):before, .page-color-style-7 .button-style-3:not(.type-2):after, .page-color-style-7 .button-style-3:not(.type-2) i:after, .page-color-style-7 .button-style-3:not(.type-2) i:before, .page-color-style-7 .button-style-4:not(.type-2) i:before, .page-color-style-7 .button-style-4:not(.type-2) i:after, .page-color-style-7 .checkbox-entry i:before, .page-color-style-7 .subscribe-form:not(.form-type-2) .sub-submit, .page-color-style-7 .form-type-2 .sub-submit:hover, .page-color-style-7 .ui-slider .ui-slider-range, .page-color-style-7 .ui-slider .ui-slider-handle:before, .page-color-style-7 .link-hover-line:before, .page-color-style-7.page-style-1 .page-span-1:before, .page-color-style-7.page-style-1 .page-span-1:after, .page-color-style-7.page-style-1 .page-span-2:before, .page-color-style-7.page-style-1 .page-span-2:after, .page-color-style-7 .list-style-4 li:hover:before, .page-color-style-7 .page-span:before, .page-color-style-7 .page-span:after, .page-color-style-7.page-style-2 .simple-item-style-2.color-type-1, .page-color-style-7 .swiper-container-horizontal> .swiper-pagination-2.swiper-pagination-bullets .swiper-pagination-bullet:after, .post-navigation .prev:hover:before, .post-navigation .next:hover:after, .item-tabs.type-2 li.active span, .item-tabs.type-2 li.active span:before,.item-tabs.type-2 li.active span:after, .item-tabs.type-2 li:hover span, .item-tabs.type-2 li:hover span:before, .item-tabs.type-2 li:hover span:after, .page-color-style-7 .button-style-1.type-3:before {background: #ca2b2d;}
 .page-color-style-7 .follow a:hover path, .page-color-style-7 .search-open:hover path, .page-color-style-7 .close-search:hover path, .page-color-style-7 .submit-search:hover path, .page-color-style-7 .header .right-block .like-item.active path, .page-color-style-7 .header .right-block .like-item:hover path, .page-color-style-7 .page-navigation a:hover path, .page-color-style-7 .f-twitt path, .page-color-style-7 .main-fill-col path, .page-color-style-7 .main-fill-hover:hover path, .page-color-style-7 .main-fill-col *, .page-color-style-7.page-style-7 .contact-icon path, .blog-info .icon a:hover path, .page-color-style-7 .coming-address li path, .page-color-style-7 .close-popup.type-2:hover path {fill: #ca2b2d;} 
-.page-color-style-7 .button-style-4:not(.type-2):before, .page-color-style-7 .button-style-4:not(.type-2):after, .page-color-style-7 .button-style-1.type-2, .page-color-style-7 .checkbox-entry input:checked + span i, .page-color-style-7 .page-navigation a:before, .page-color-style-7 .ui-slider .ui-slider-handle, .page-color-style-7.page-style-2 .simple-item-style-1.color-type-2, .page-color-style-7 .button-style-1.type-4:after, .page-color-style-7 .button-style-1.type-2:after, .input-field.type-2:focus, .page-color-style-7 .focus  {border-color: #ca2b2d;}
+.page-color-style-7 .button-style-4:not(.type-2):before, .page-color-style-7 .button-style-4:not(.type-2):after, .page-color-style-7 .button-style-1.type-2, .page-color-style-7 .checkbox-entry input:checked + span i, .page-color-style-7 .page-navigation a:before, .page-color-style-7 .ui-slider .ui-slider-handle, .page-color-style-7.page-style-2 .simple-item-style-1.color-type-2, .page-color-style-7 .button-style-1.type-4:after, .page-color-style-7 .button-style-1.type-2:after, .input-field.type-2:focus, .page-color-style-7 .focus  {border-color: #ca2b2d; border-radius: 20px;}
 .page-color-style-7.page-style-2 .testimonials-item .text:after {border-color: #ca2b2d transparent transparent transparent;}
 .page-color-style-7.page-style-2 .testimonials-item .text:before {box-shadow: 0 0 0 20px #ca2b2d;}
 
@@ -504,7 +504,8 @@ div[class*="empty-"] {width: 100%; clear: both;}
 
 .simple-item-style-3 {position: relative; background: #fff; padding: 0 15px;}
 
-.section, .main-title {position: relative; background-color: #000;}
+.section {position: relative; background-color: #000;}
+.main-title {position: relative;}
 .elem-button {position: relative; width: 100%; display: inline-block; padding: 0 15px;}
 .elem-button .page-button {margin: 0 20px 30px 0px; float: left;}
 .form-elements .custom-input-number {margin-right: 30px;}
@@ -530,7 +531,7 @@ div[class*="empty-"] {width: 100%; clear: both;}
 /*========TESTIMONIALS ITEM=========*/
 
 .testimonials-item {position: relative; width: 100%;}
-.testimonials-item .text {position: relative; background: #fff;}
+.testimonials-item .text {position: relative; background: #eaeaea;}
 .testi-type-1 {text-align: center; padding-top: 45px;}
 .testi-type-1 .text { padding: 100px 50px 60px;}
 .testi-type-1 .img {position: absolute; top: 0px; left: 50%; width: 130px; height: 130px; margin-left: -65px; z-index: 1; box-shadow: 0 0 10px rgba(0,0,0,0.1); background: #fff; overflow: hidden; border-radius: 50%;}
@@ -547,7 +548,7 @@ div[class*="empty-"] {width: 100%; clear: both;}
 .testi-type-3 .img {position: relative;}
 .testi-type-3 .img img {display: inline-block; border-radius: 50%; margin-right: 20px; vertical-align: middle; max-width: 70px;}
 
-.testi-type-4 {display: inline-block; width: 100%; padding: 30px; background: #fff;}
+.testi-type-4 {display: inline-block; width: 100%; padding: 30px; background: #eaeaea;}
 .testi-type-4 .img img {width: 100%; height: auto; display: block;}
 .testi-type-4 .img {position: relative; float: left; max-width: 70px; z-index: 1;}
 .testi-type-4 .text {padding-left: 100px;}
@@ -838,7 +839,7 @@ textarea.input-field.sm {height: 125px;}
 
 .menu-item-5 .image {height: 155px; display: -webkit-box;display: -webkit-flex;display: -ms-flexbox;display: flex; align-items: center;}
 .menu-item-5 .image img {width: auto; max-height: 100%; margin: 0 auto; max-width: 100%;}
-.menu-item-5 .image:before, .menu-item-6 .image:before, .menu-item-6.type-2 .image:before {background: rgba(255,255,255,0.9);}
+.menu-item-5 .image:before, .menu-item-6 .image:before, .menu-item-6.type-2 .image:before {background: rgba(0,0,0,0.9);}
 .menu-item-5 .menu-price, .menu-item-6 .menu-price {position: absolute; top: 0px; right: 0px; font-weight: 700; z-index: 1;}
 .menu-item-6 {text-align: left;}
 .menu-item-6 .image img {width: auto; max-width: 100%; max-height: 100%;}
@@ -1149,7 +1150,7 @@ body.overflow {overflow: hidden;}
     .header-style-5 {position: absolute; left: 0px; bottom: 0px; top: auto; background: #fff; border-bottom: 1px solid #f9f9f9;}
     .header-style-5.type-2 {bottom: auto; top: 0px; border-bottom: 0 none; position: fixed;}
     .header.header-style-5.scrol {background: #fff;}
-    .shop-card-list {position: absolute; padding: 30px 0px; background: #fff; top: 100%; left: 0px; min-width: 630px; margin-left: -315px; padding: 30px 0px; box-shadow: 0 0 4px rgba(0,0,0,0.2); visibility: hidden; opacity: 0; transition: all 0.25s ease-out; -webkit-transition: all 0.25s ease-out; -ms-transition: all 0.25s ease-out; transform: scale(0.9); -webkit-transform: scale(0.9);-ms-transform: scale(0.9); max-height: 561px; overflow-y: auto; cursor: default;}
+    .shop-card-list {position: absolute; padding: 30px 0px; background: #fff; top: 100%; left: 0px; min-width: 630px; margin-left: -515px; padding: 30px 0px; box-shadow: 0 0 4px rgba(0,0,0,0.2); visibility: hidden; opacity: 0; transition: all 0.25s ease-out; -webkit-transition: all 0.25s ease-out; -ms-transition: all 0.25s ease-out; transform: scale(0.9); -webkit-transform: scale(0.9);-ms-transform: scale(0.9); max-height: 561px; overflow-y: auto; cursor: default;}
     .shop-card-item:hover .shop-card-list {visibility: visible; opacity: 1; transform: scale(1); -webkit-transform: scale(1);-ms-transform: scale(1);}   
 }
 
@@ -2281,4 +2282,18 @@ transition: all 0.35s ease-out; }
   width: 200px;
   display: block;
   margin: auto;
+}
+
+.category-pills {
+  text-align: center;
+}
+
+.input-field {
+  border-radius: 20px;
+  background: rgba(0, 0, 0, 0.2);
+  color: white;
+}
+
+.input-field:focus {
+  border-color: #c73c3c;
 }

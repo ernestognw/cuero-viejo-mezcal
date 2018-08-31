@@ -253,10 +253,13 @@ jQuery(function($) { "use strict";
 	/*============================*/
                     
     $(window).scroll(function() {
-	   headerScroll();
-        headerFixed();
-		animateItem();
-	});
+      if(document.getElementById('header').getAttribute('main') == 'true')
+      {
+        headerScroll();
+      }
+      headerFixed();
+      animateItem();
+	  });
                     
     function headerFixed() {
        if ($(window).scrollTop() >= $('.full-height-slider').height() - 138) {
@@ -267,13 +270,13 @@ jQuery(function($) { "use strict";
     }                
              
     function headerScroll() {
-       if ($(window).scrollTop() >= 1) {
-       $('header').addClass('scrol');
-       document.getElementById('header').setAttribute('style', 'display: block;')
-		}else{
-       $('header').removeClass('scrol');
-       document.getElementById('header').setAttribute('style', 'display: none;')       
-		}
+      if ($(window).scrollTop() >= 1) {
+      $('header').addClass('scrol');
+      document.getElementById('header').setAttribute('style', 'display: block;')
+      }else{
+          $('header').removeClass('scrol');
+          document.getElementById('header').setAttribute('style', 'display: none;')       
+      }
     }
                     
     $('.up-button').on('click', function(){
