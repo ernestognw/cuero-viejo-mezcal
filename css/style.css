@@ -201,7 +201,7 @@ div[class*="empty-"] {width: 100%; clear: both;}
 /*====COLOR STYLE 6=====*/
 
 .page-color-style-6.page-style-6 .title, .page-color-style-6 .header-menu > li > ul li:hover > a, .page-color-style-6 .login-item a:hover, .page-color-style-6 .button-style-3:not(.type-2), .page-color-style-6 .button-style-4:not(.type-2), .page-color-style-6 .button-style-1.type-2, .page-color-style-6 .checkbox-entry-wrap .checkbox-entry input:checked + span p, .page-color-style-6 .page-navigation a:hover, .page-color-style-6 .copyright span a, .page-color-style-6 .link-hover:hover, .page-color-style-6 .f-twitt a, .page-color-style-6 .caption-inst a span, .page-color-style-6 .link-hover-line:hover, .page-color-style-6 .button-style-1.type-4:hover, .page-color-style-6 .countdown-type .ClassyCountdown-value div, .page-color-style-6 .main-col, .page-color-style-6 .item-tabs li.active .link-hover-line, .text-block-wrapp .title-blog:hover, .blog-info li a:hover, .page-color-style-6 .button-style-1.type-3, .post-navigation .h5.color-2 a:hover, .input-field.type-2, .checkbox-entry-wrap .checkbox-entry input:checked + .content-check .simple-text p, .page-color-style-6 .location-bottom.type-2 .color-type-3 .contact a:hover, .page-color-style-6 .popup .forgot a:hover, .page-color-style-6 .popup .reg-now a:hover {color: #ca2b2d;}
-.page-color-style-6 .button-style-1:before, .page-color-style-6 .header-menu > li > a:before, .page-color-style-6 .header-style-2 .header-menu > li:before, .page-color-style-6 .header-style-2 .header-menu > li:after, .page-color-style-6 .shop-number, .page-color-style-6 .button-style-3:not(.type-2):before, .page-color-style-6 .button-style-3:not(.type-2):after, .page-color-style-6 .button-style-3:not(.type-2) i:after, .page-color-style-6 .button-style-3:not(.type-2) i:before, .page-color-style-6 .button-style-4:not(.type-2) i:before, .page-color-style-6 .button-style-4:not(.type-2) i:after, .page-color-style-6 .checkbox-entry i:before, .page-color-style-6 .subscribe-form:not(.form-type-2) .sub-submit, .page-color-style-6 .form-type-2 .sub-submit:hover, .page-color-style-6 .ui-slider .ui-slider-range, .page-color-style-6 .ui-slider .ui-slider-handle:before, .page-color-style-6 .link-hover-line:before, .page-color-style-6.page-style-1 .page-span-1:before, .page-color-style-6.page-style-1 .page-span-1:after, .page-color-style-6.page-style-1 .page-span-2:before, .page-color-style-6.page-style-1 .page-span-2:after, .page-color-style-6 .list-style-4 li:hover:before, .page-color-style-6 .page-span:before, .page-color-style-6 .page-span:after, .page-color-style-6.page-style-2 .simple-item-style-2.color-type-1, .page-color-style-6 .swiper-container-horizontal> .swiper-pagination-2.swiper-pagination-bullets .swiper-pagination-bullet:after, .post-navigation .prev:hover:before, .post-navigation .next:hover:after, .item-tabs.type-2 li.active span, .item-tabs.type-2 li.active span:before,.item-tabs.type-2 li.active span:after, .item-tabs.type-2 li:hover span, .item-tabs.type-2 li:hover span:before, .item-tabs.type-2 li:hover span:after, .reply .button-style-1.type-3:before  {background: #ca2b2d;}
+.page-color-style-6 .button-style-1:before, .page-color-style-6 .header-menu > li > a:before, .page-color-style-6 .header-style-2 .header-menu > li:before, .page-color-style-6 .header-style-2 .header-menu > li:after, .page-color-style-6 .shop-number, .page-color-style-6 .button-style-3:not(.type-2):before, .page-color-style-6 .button-style-3:not(.type-2):after, .page-color-style-6 .button-style-3:not(.type-2) i:after, .page-color-style-6 .button-style-3:not(.type-2) i:before, .page-color-style-6 .button-style-4:not(.type-2) i:before, .page-color-style-6 .button-style-4:not(.type-2) i:after, .page-color-style-6 .checkbox-entry i:before, .page-color-style-6 .subscribe-form:not(.form-type-2) .sub-submit, .page-color-style-6 .form-type-2 .sub-submit:hover, .page-color-style-6 .ui-slider .ui-slider-range, .page-color-style-6 .ui-slider .ui-slider-handle:before, .page-color-style-6 .link-hover-line:before, .page-color-style-6.page-style-1 .page-span-1:before, .page-color-style-6.page-style-1 .page-span-1:after, .page-color-style-6.page-style-1 .page-span-2:before, .page-color-style-6.page-style-1 .page-span-2:after, .page-color-style-6 .list-style-4 li:hover:before, .page-color-style-6 .page-span:before, .page-color-style-6 .page-span:after, .page-color-style-6.page-style-2 .simple-item-style-2.color-type-1, .page-color-style-6 .swiper-container-horizontal> .swiper-pagination-2.swiper-pagination-bullets .swiper-pagination-bullet:after, .post-navigation .prev:hover:before, .post-navigation .next:hover:after, .item-tabs.type-2 li.active span, .item-tabs.type-2 li.active span:before,.item-tabs.type-2 li.active span:after, .item-tabs.type-2 li:hover span, .item-tabs.type-2 li:hover span:before, .item-tabs.type-2 li:hover span:after, .reply .button-style-1.type-3:before  {background: #ca2b2d; }
 .page-color-style-6 .follow a:hover path, .page-color-style-6 .search-open:hover path, .page-color-style-6 .close-search:hover path, .page-color-style-6 .submit-search:hover path, .page-color-style-6 .header .right-block .like-item.active path, .page-color-style-6 .header .right-block .like-item:hover path, .page-color-style-6 .page-navigation a:hover path, .page-color-style-6 .f-twitt path, .page-color-style-6 .main-fill-col path, .page-color-style-6 .main-fill-hover:hover path, .page-color-style-6 .main-fill-col *, .contact-icon path, .blog-info .icon a:hover path, .coming-address li path, .page-color-style-6 .close-popup.type-2:hover path {fill: #ca2b2d;} 
 .page-color-style-6 .button-style-4:not(.type-2):before, .page-color-style-6 .button-style-4:not(.type-2):after, .page-color-style-6 .button-style-1.type-2, .page-color-style-6 .checkbox-entry input:checked + span i, .page-color-style-6 .page-navigation a:before, .page-color-style-6 .ui-slider .ui-slider-handle, .page-color-style-6.page-style-2 .simple-item-style-1.color-type-2, .page-color-style-6 .button-style-1.type-4:after, .page-color-style-6 .button-style-1.type-2:after, .page-color-style-6 .button-style-1.type-3:after, .page-color-style-6 .input-field.type-2:focus, .page-color-style-6 .focus, .page-color-style-6 .input-field:focus {border-color: #ca2b2d;}
 .page-color-style-6.page-style-2 .testimonials-item .text:after {border-color: #ca2b2d transparent transparent transparent;}
@@ -213,10 +213,23 @@ div[class*="empty-"] {width: 100%; clear: both;}
 /*====COLOR STYLE 7=====*/
 
 .page-color-style-7.page-style-7 .title, .page-color-style-7 .header-menu > li > ul li:hover > a, .page-color-style-7 .login-item a:hover, .page-color-style-7 .button-style-3:not(.type-2), .page-color-style-7 .button-style-4:not(.type-2), .page-color-style-7 .button-style-1.type-2, .page-color-style-7 .checkbox-entry-wrap .checkbox-entry input:checked + span p, .page-color-style-7 .page-navigation a:hover, .page-color-style-7 .copyright span a, .page-color-style-7 .link-hover:hover, .page-color-style-7 .f-twitt a, .page-color-style-7 .caption-inst a span, .page-color-style-7 .link-hover-line:hover, .page-color-style-7 .button-style-1.type-4:hover, .page-color-style-7 .countdown-type .ClassyCountdown-value div, .page-color-style-7 .main-col, .page-color-style-7 .item-tabs li.active .link-hover-line, .page-color-style-7 .text-block-wrapp .title-blog:hover, .page-color-style-7 .blog-info li a:hover, .page-color-style-7 .post-navigation .h5.color-2 a:hover, .page-color-style-7 .input-field.type-2, .page-color-style-7 .checkbox-entry-wrap .page-color-style-7 .checkbox-entry input:checked + .content-check .simple-text p, .page-color-style-7 .location-bottom .color-type-3 .contact a:hover, .page-color-style-7 .popup .forgot a:hover, .page-color-style-7 .popup .reg-now a:hover {color: #ca2b2d;}
-.page-color-style-7 .button-style-1:before, .page-color-style-7 .header-menu > li > a:before, .page-color-style-7 .header-style-2 .header-menu > li:before, .page-color-style-7 .header-style-2 .header-menu > li:after, .page-color-style-7 .shop-number, .page-color-style-7 .button-style-3:not(.type-2):before, .page-color-style-7 .button-style-3:not(.type-2):after, .page-color-style-7 .button-style-3:not(.type-2) i:after, .page-color-style-7 .button-style-3:not(.type-2) i:before, .page-color-style-7 .button-style-4:not(.type-2) i:before, .page-color-style-7 .button-style-4:not(.type-2) i:after, .page-color-style-7 .checkbox-entry i:before, .page-color-style-7 .subscribe-form:not(.form-type-2) .sub-submit, .page-color-style-7 .form-type-2 .sub-submit:hover, .page-color-style-7 .ui-slider .ui-slider-range, .page-color-style-7 .ui-slider .ui-slider-handle:before, .page-color-style-7 .link-hover-line:before, .page-color-style-7.page-style-1 .page-span-1:before, .page-color-style-7.page-style-1 .page-span-1:after, .page-color-style-7.page-style-1 .page-span-2:before, .page-color-style-7.page-style-1 .page-span-2:after, .page-color-style-7 .list-style-4 li:hover:before, .page-color-style-7 .page-span:before, .page-color-style-7 .page-span:after, .page-color-style-7.page-style-2 .simple-item-style-2.color-type-1, .page-color-style-7 .swiper-container-horizontal> .swiper-pagination-2.swiper-pagination-bullets .swiper-pagination-bullet:after, .post-navigation .prev:hover:before, .post-navigation .next:hover:after, .item-tabs.type-2 li.active span, .item-tabs.type-2 li.active span:before,.item-tabs.type-2 li.active span:after, .item-tabs.type-2 li:hover span, .item-tabs.type-2 li:hover span:before, .item-tabs.type-2 li:hover span:after, .page-color-style-7 .button-style-1.type-3:before {background: #ca2b2d;}
+.page-color-style-7 .button-style-1:before, .page-color-style-7 .header-menu > li > a:before, .page-color-style-7 .header-style-2 .header-menu > li:before, .page-color-style-7 .header-style-2 .header-menu > li:after, .page-color-style-7 .shop-number, .page-color-style-7 .button-style-3:not(.type-2):before, .page-color-style-7 .button-style-3:not(.type-2):after, .page-color-style-7 .button-style-3:not(.type-2) i:after, .page-color-style-7 .button-style-3:not(.type-2) i:before, .page-color-style-7 .button-style-4:not(.type-2) i:before, .page-color-style-7 .button-style-4:not(.type-2) i:after, .page-color-style-7 .checkbox-entry i:before, .page-color-style-7 .subscribe-form:not(.form-type-2) .sub-submit, .page-color-style-7 .form-type-2 .sub-submit:hover, .page-color-style-7 .ui-slider .ui-slider-range, .page-color-style-7 .ui-slider .ui-slider-handle:before, .page-color-style-7 .link-hover-line:before, .page-color-style-7.page-style-1 .page-span-1:before, .page-color-style-7.page-style-1 .page-span-1:after, .page-color-style-7.page-style-1 .page-span-2:before, .page-color-style-7.page-style-1 .page-span-2:after, .page-color-style-7 .list-style-4 li:hover:before, .page-color-style-7 .page-span:before, .page-color-style-7 .page-span:after, .page-color-style-7.page-style-2 .simple-item-style-2.color-type-1, .page-color-style-7 .swiper-container-horizontal> .swiper-pagination-2.swiper-pagination-bullets .swiper-pagination-bullet:after, .post-navigation .prev:hover:before, .post-navigation .next:hover:after, .item-tabs.type-2 li.active span, .item-tabs.type-2 li.active span:before,.item-tabs.type-2 li.active span:after, .item-tabs.type-2 li:hover span, .item-tabs.type-2 li:hover span:before, .item-tabs.type-2 li:hover span:after, .page-color-style-7 .button-style-1.type-3:before {background: #ca2b2d;     background: #ca2b2d;}
+.red-block:after {
+  width: 220px !important;
+  height: 180px !important;
+  left: -20px !important;
+  bottom: -20px !important;
+}
+.red-block-opposite:after {
+  left: 60px !important;
+  bottom: 314px !important;
+}
+.red-block-opposite:before {
+  background-color: #000 !important;
+}
 .page-color-style-7 .follow a:hover path, .page-color-style-7 .search-open:hover path, .page-color-style-7 .close-search:hover path, .page-color-style-7 .submit-search:hover path, .page-color-style-7 .header .right-block .like-item.active path, .page-color-style-7 .header .right-block .like-item:hover path, .page-color-style-7 .page-navigation a:hover path, .page-color-style-7 .f-twitt path, .page-color-style-7 .main-fill-col path, .page-color-style-7 .main-fill-hover:hover path, .page-color-style-7 .main-fill-col *, .page-color-style-7.page-style-7 .contact-icon path, .blog-info .icon a:hover path, .page-color-style-7 .coming-address li path, .page-color-style-7 .close-popup.type-2:hover path {fill: #ca2b2d;} 
 .page-color-style-7 .button-style-4:not(.type-2):before, .page-color-style-7 .button-style-4:not(.type-2):after, .page-color-style-7 .button-style-1.type-2, .page-color-style-7 .checkbox-entry input:checked + span i, .page-color-style-7 .page-navigation a:before, .page-color-style-7 .ui-slider .ui-slider-handle, .page-color-style-7.page-style-2 .simple-item-style-1.color-type-2, .page-color-style-7 .button-style-1.type-4:after, .page-color-style-7 .button-style-1.type-2:after, .input-field.type-2:focus, .page-color-style-7 .focus  {border-color: #ca2b2d; border-radius: 20px;}
-.page-color-style-7.page-style-2 .testimonials-item .text:after {border-color: #ca2b2d transparent transparent transparent;}
+.page-color-style-7.page-style-2 .testimonials-item .text:after {border-color: #ca2b2d; }
 .page-color-style-7.page-style-2 .testimonials-item .text:before {box-shadow: 0 0 0 20px #ca2b2d;}
 
 
@@ -995,7 +1008,7 @@ textarea.input-field.sm {height: 125px;}
 .nav {position: relative; float: right; font-size: 0px;}
 .header-menu li a {color: inherit; position: relative;}
 .header-menu > li {display: inline-block; font-size: 12px; font-weight: 700; color: #fff; position: relative;}
-.header-menu > li > a {padding: 43px 0px 41px; margin: 0px 25px; display: inline-block;}
+.header-menu > li > a {padding: 43px 0px 41px; margin: 0px 15px; display: inline-block;}
 .header-menu > li > ul li {color: #898989; position: relative;}
 .header-menu > li > ul li a {padding: 10px 25px; display: inline-block;}
 .follow, .header nav, .header .search {display: inline-block; vertical-align: middle;}
@@ -1113,7 +1126,7 @@ body.overflow {overflow: hidden;}
     .header-style-2 .search-popup .container {width: 100%;}
 }
 
-@media (min-width: 991px) {
+@media (min-width: 1300px) {
 	.footer {position: relative; left: 0px; bottom: 0px; width: 100%; }
     .header-menu > li ul:before {content: ''; position: absolute; left: 0px; top: 1px; width: 20%; height: 100%; background: #181a1c; transition: all 0.45s ease-out; -webkit-transition: all 0.45s ease-out; -ms-transition: all 0.45s ease-out;}
     .header-menu li:hover > ul {visibility: visible; opacity: 1;}
@@ -1167,7 +1180,7 @@ body.overflow {overflow: hidden;}
     .header-style-3 .login-item {padding-right: 20px;}
 	.custome-padd-bg {padding: 30px 0px;}
 }
-@media (max-width: 1200px) { 
+@media (max-width: 1300px) { 
     .header-style-2 {bottom: 0px;}
     .header-style-2 .search {margin-right: 30px; width: 250px;}
     .header-style-2 .header-menu > li > a {padding: 43px 20px 41px;}
@@ -1181,8 +1194,8 @@ body.overflow {overflow: hidden;}
 	.custome-padd-bg {padding: 0px;}
 	.bg.fix {background-attachment: scroll;}
 }
-@media (max-width: 991px) {
-    .header {background: #181a1c;}
+@media (max-width: 1300px) {
+    .header {background: #000;}
     .sub-header {display: none;}
     .nav {position: fixed; left: 0px; top: 0px; width: 100%; height: 100%; overflow-y: auto; background: #181a1c; transform: translateX(-100%); -webkit-transform: translateX(-100%);-ms-transform: translateX(-100%); font-size: 0px;}
     .nav:before {content: ''; position: relative; display: inline-block; vertical-align: middle; height: 100%;}
@@ -1272,7 +1285,7 @@ body.overflow {overflow: hidden;}
 .item-tabs.type-2 li.active .link-hover-line:before {width: 100%;}
 .item-tabs.vertical li{margin-bottom: 30px; display: block;}
 .item-tabs.vertical li a{color: inherit;margin: 0;}
-.box-item {position: relative; background: #fff; padding: 0 75px; background: #fff;}
+.box-item {position: relative; background: #000; padding: 0 75px; background: #000;}
 .imstagram-image {position: relative; width: 100%; clear: both;}
 .imstagram-image:before {content: ''; display: table; clear: both;}
 .imstagram-image a {display: block; float: left; position: relative; width: 16.666%; overflow: hidden;}
