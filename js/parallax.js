@@ -42,7 +42,7 @@ var sceneLayer = [];
 var controllerLayer = [];
 var keyarts = document.getElementsByClassName("parallax");
 
-for (i = 0; i < 7; i++) {
+for (i = 0; i < 6; i++) {
   controllerLayer[i] = new ScrollMagic.Controller();
   let speed = keyarts[i].getAttribute("data-speed");
   let yPos = -((window.innerHeight * speed) / 100);

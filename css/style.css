@@ -2176,28 +2176,28 @@ transition: all 0.35s ease-out; }
   }
 
   #keyart-3 {
-    background-image: url("../images/layer_3.svg");
-  }
-
-  #keyart-4 {
     background-image: url("../images/layer_4.svg");
   }
 
-  #keyart-5 {
+  #keyart-4 {
     background-image: url("../images/layer_5.svg");
   }
 
-  #keyart-6 {
+  #keyart-5 {
     background-image: url("../images/layer_6.svg");
   }
 
-  #keyart-7 {
-    background-image: url("../images/layer_7.png");
+  #keyart-6 {
+    background-image: url("../images/layer_7.svg");
   }
 
-  #keyart-8 {
-    background-image: url("../images/layer_8.svg");
+  #keyart-7 {
+    background-image: url("../images/layer_8.png");
   }
+
+  /* #keyart-8 {
+    background-image: url("../images/layer_8.svg");
+  } */
 }
 
 .page-style-7 h4,
