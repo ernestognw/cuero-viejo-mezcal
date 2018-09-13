@@ -2134,7 +2134,7 @@ transition: all 0.35s ease-out; }
 }
 
 #keyart-3 {
-  background-image: url("../images/layer_3.svg");
+  background-image: url("../images/layer_3.png");
 }
 
 #keyart-4 {
@@ -2175,7 +2175,7 @@ transition: all 0.35s ease-out; }
   }
 
   #keyart-3 {
-    background-image: url("../images/layer_3.svg");
+    background-image: url("../images/layer_3.png");
   }
 
   #keyart-4 {
