@@ -852,7 +852,6 @@ textarea.input-field.sm {height: 125px;}
 
 .menu-item-5 .image {height: 155px; display: -webkit-box;display: -webkit-flex;display: -ms-flexbox;display: flex; align-items: center;}
 .menu-item-5 .image img {width: auto; max-height: 100%; margin: 0 auto; max-width: 100%;}
-.menu-item-5 .image:before, .menu-item-6 .image:before, .menu-item-6.type-2 .image:before {background: rgba(0,0,0,0.9);}
 .menu-item-5 .menu-price, .menu-item-6 .menu-price {position: absolute; top: 0px; right: 0px; font-weight: 700; z-index: 1;}
 .menu-item-6 {text-align: left;}
 .menu-item-6 .image img {width: auto; max-width: 100%; max-height: 100%;}
@@ -2176,28 +2175,28 @@ transition: all 0.35s ease-out; }
   }
 
   #keyart-3 {
-    background-image: url("../images/layer_4.svg");
+    background-image: url("../images/layer_3.svg");
   }
 
   #keyart-4 {
-    background-image: url("../images/layer_5.svg");
+    background-image: url("../images/layer_4.svg");
   }
 
   #keyart-5 {
-    background-image: url("../images/layer_6.svg");
+    background-image: url("../images/layer_5.svg");
   }
 
   #keyart-6 {
-    background-image: url("../images/layer_7.svg");
+    background-image: url("../images/layer_6.svg");
   }
 
   #keyart-7 {
-    background-image: url("../images/layer_8.png");
+    background-image: url("../images/layer_7.png");
   }
 
-  /* #keyart-8 {
+  #keyart-8 {
     background-image: url("../images/layer_8.svg");
-  } */
+  }
 }
 
 .page-style-7 h4,
@@ -2309,4 +2308,13 @@ transition: all 0.35s ease-out; }
 
 .input-field:focus {
   border-color: #c73c3c;
+}
+
+.mixology-description {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 100%;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
 }

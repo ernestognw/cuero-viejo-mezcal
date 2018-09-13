@@ -42,18 +42,18 @@ var sceneLayer = [];
 var controllerLayer = [];
 var keyarts = document.getElementsByClassName("parallax");
 
-for (i = 0; i < 6; i++) {
-  controllerLayer[i] = new ScrollMagic.Controller();
-  let speed = keyarts[i].getAttribute("data-speed");
-  let yPos = -((window.innerHeight * speed) / 100);
-  layer[i] = TweenMax.to(`#keyart-${i}`, 0.5, { y: yPos });
-  sceneLayer[i] = new ScrollMagic.Scene({
-    triggerElement: "#initialTrigger",
-    duration: window.innerHeight
-  })
-    .setTween(layer[i])
-    .addTo(controllerLayer[i]);
-}
+// for (i = 0; i <= 7; i++) {
+//   controllerLayer[i] = new ScrollMagic.Controller();
+//   let speed = keyarts[i].getAttribute("data-speed");
+//   let yPos = -((window.innerHeight * speed) / 100);
+//   layer[i] = TweenMax.to(`#keyart-${i}`, 0.5, { y: yPos });
+//   sceneLayer[i] = new ScrollMagic.Scene({
+//     triggerElement: "#initialTrigger",
+//     duration: window.innerHeight
+//   })
+//     .setTween(layer[i])
+//     .addTo(controllerLayer[i]);
+// }
 
 // Animación botellas de tienda
 
