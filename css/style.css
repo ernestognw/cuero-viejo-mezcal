@@ -2318,3 +2318,19 @@ transition: all 0.35s ease-out; }
   -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
 }
+
+.bottle-for-phone-img {
+  width: 100%;
+}
+
+@media (max-width: 991px) {
+ .bottle-adjustment {
+   display: none !important;
+ }
+}
+
+@media (min-width: 991px) {
+  .bottle-for-phone {
+    display: none !important;
+  }
+ }
