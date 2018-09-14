@@ -2122,7 +2122,7 @@ transition: all 0.35s ease-out; }
 }
 
 #keyart-0 {
-  background-image: url("../images/layer_0.svg");
+  background-image: url("../images/back-layer.svg");
 }
 
 #keyart-1 {
@@ -2163,7 +2163,7 @@ transition: all 0.35s ease-out; }
 
 @media (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
   #keyart-0 {
-    background-image: url("../images/layer_0.svg");
+    background-image: url("../images/back-layer.svg");
   }
 
   #keyart-1 {
