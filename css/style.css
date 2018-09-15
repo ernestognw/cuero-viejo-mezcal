@@ -2223,7 +2223,7 @@ transition: all 0.35s ease-out; }
 }
 
 .shop {
-  height: 140vh
+  height: 140vh !important;
 }
 
 .bottle {
