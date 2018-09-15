@@ -2323,6 +2323,14 @@ transition: all 0.35s ease-out; }
   width: 100%;
 }
 
+.language-option {
+  color: white; 
+  display: inline-block; 
+  font-size: 13px;
+  font-weight: bold;
+  margin-left: 0.5rem;
+}
+
 @media (max-width: 991px) {
  .bottle-adjustment {
    display: none !important;
