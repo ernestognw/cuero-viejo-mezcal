@@ -2311,12 +2311,7 @@ transition: all 0.35s ease-out; }
 }
 
 .mixology-description {
-  overflow: hidden;
-  text-overflow: ellipsis;
-  max-width: 100%;
-  display: -webkit-box;
-  -webkit-line-clamp: 3;
-  -webkit-box-orient: vertical;
+  height: 5.2rem;
 }
 
 .bottle-for-phone-img {
